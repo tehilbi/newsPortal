@@ -1,0 +1,87 @@
+.App {
+  text-align: center;
+}
+
+.App-Body {
+  background-image: url("../img/istockphoto-478973691-640x640.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.title {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.row {
+  display: flex;
+  justify-content: space-around;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  direction: rtl;
+  margin-top: 40px;
+}
+
+img {
+  width: 10vw;
+  height: 10vw;
+}
+
+.MuiInputBase-input.MuiOutlinedInput-input {
+  direction: ltr !important;
+}
+
+#chart-1 {
+  height: 32vh !important;
+}
+
+.page {
+  height: 35vh;
+  cursor: pointer;
+}
+
+.page.weather {
+  font-variant: disp;
+  display: flex;
+  flex-direction: column;
+  align-items: inherit;
+  justify-content: space-around;
+}
+
+.summary {
+  margin-top: 15px;
+  overflow: hidden;
+  width: auto;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  font-size: 2vh;
+}
+
+.section {
+  margin-top: 30px;
+}
+
+.currentDate {
+  font-size: medium;
+}
+
+.popup-content {
+  width: 77vw !important;
+  padding: 0px !important;
+}
+
+.MuiButton-containedPrimary {
+  margin-top: 3vh !important;
+}

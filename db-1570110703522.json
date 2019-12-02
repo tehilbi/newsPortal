@@ -1,0 +1,180 @@
+{
+  "news": [
+    {
+      "id": 0,
+      "img": "skynews-carson-king-beer_4784432.jpg",
+      "title": "Sports fan asks for beer money and ends up raising $1m for children's hospital",
+      "summary": "A 24-year-old Iowa man made a jokey sign asking for beer money and ended up making a donation to a children's hospital.",
+      "article": "When American football fan Carson King cheekily held up a sign on TV asking for people to send him money to buy beer, he didn't expect to receive a cent.Now, just over a week on, he's raised more than a $1m (£800,000) and is donating the funds to a children's hospital.I was hoping to make a couple people laugh! I never expected to be on TV, and definitely did not except anyone to send any money,he told Sky News. Referencing a beer brand, Mr King's sign read Busch Light Supply Needs Replenished and gave his username for mobile payment service Venmo.When cameras caught the sign on 14 September and broadcast it across America from the Iowa Hawkeyes and the Iowa State Cyclones game, viewers at home began to send him money.When the cash flowing into his account hit $600 (£480), Mr King conferred with his family and tweeted after the game that he decided to donate all the proceeds (minus the cost of one case of beer) to University of Iowa Stead Family Children'tsettesttesttes"
+    },
+    {
+      "id": 1,
+      "img": "skynews-golden-toilet_4774116.jpg",
+      "title": "Second arrest over theft of £5m gold toilet from Blenheim Palace",
+      "summary": "Police are still looking for the golden loo, which was made by Italian artist Maurizio Cattelan, and valued at £4.8m.",
+      "article": "A second man has been arrested in connection with the theft of an 18-carat gold toilet from Blenheim Palace.The artwork, which is fully functioning and called America, was taken in the early hours of Saturday, Thames Valley Police said.Officers are still looking for the stolen loo.It was installed opposite the room in which Sir Winston Churchill was born at the 18th-century Oxfordshire estate.Its removal caused significant flood damage because it had been plumbed in for visitors to use.Made by Italian conceptual artist Maurizio Cattelan, it is worth about £4.8m, Blenheim Palace chief executive Dominic Hare said.Police said a 36-year-old man from Cheltenham had been arrested on suspicion of conspiracy to burgle, and released under investigation.Another man, 66, was arrested on suspicion of burglary and released on police bail until 9 October.The toilet was installed at the palace as part of Mr Cattelan's first solo exhibition for 20 year"
+    },
+    {
+      "id": 2,
+      "img": "PRC_86227462.jpg",
+      "title": "Pilot stops plane to let baby hedgehog cross the runway",
+      "summary": "A kindhearted pilot took evasive action after noticing a baby hedgehog on the runway as they prepared for take-off",
+      "article": "Passengers were told about the reason for the delay over the tannoy as they waited two minutes for the hoglet to cross. The Loganair flight was taxiing to the runway in Stornoway, Lewis, when the prickly creature made an appearance. The captain brought the Saab 340 aircraft to a halt at around 5.20pm on Thursday, during the journey to Inverness in the Highlands. There were 30 passengers on board at the time. Neil Hughes, Loganair’s director of flight operations, said: ‘The captain safely avoided a prickly situation for the little hedgehog, following procedure until the animal was off the tarmac.‘Our network extends into some of Scotland’s most remote communities so there are quite a few opportunities to see animals in the wild – and we’re always conscious to disturb them as little as possible.Pilots operating from Stornoway regularly scan the runway for wildlife, given the rural location of the airport in the Outer Hebrides.Passenger Roddy McLeod tweeted:‘Aft"
+    },
+    {
+      "id": 3,
+      "img": "download.jpg",
+      "title": "Amazon Echo link could be turning UK parents off the name Alexa",
+      "summary": "The number of parents in Britain calling their baby girls Alexa dropped by more than half last year, statistics showed on Thursday, possibly due to the link with Amazon Echo voice-controlled gadgets.",
+      "article": "LONDON (Reuters) - The number of parents in Britain calling their baby girls Alexa dropped by more than half last year, statistics showed on Thursday, possibly due to the link with Amazon Echo voice-controlled gadgets.LONDON (Reuters) - The number of parents in Britain calling their baby girls Alexa dropped by more than half last year, statistics showed on Thursday, possibly due to the link with Amazon Echo voice-controlled gadgets.The growth in the use of technology assistants in our homes may help to explain why the number of baby girls named Alexa has more than halved compared with 2017,Communicating with young children can be hard enough at the best of times.Alexa was the 380th most popular name for girls in England and Wales last year, with 118 newborns given the name - a sharp fall from 2017, when there were 301 Alexas.Oliver and Olivia remained the most popular names for boys and girls, for the sixth and third year running."
+    }
+  ],
+  "weather": [
+    {
+      "id": 0,
+      "degrees": "15",
+      "icon": "Capture.PNG"
+    },
+    {
+      "id": 1,
+      "degrees": "20",
+      "icon": "Captur2.PNG"
+    },
+    {
+      "id": 2,
+      "degrees": "14",
+      "icon": "Captur3.PNG"
+    },
+    {
+      "id": 3,
+      "degrees": "10",
+      "icon": "Capture4.PNG"
+    },
+    {
+      "id": 4,
+      "degrees": "4",
+      "icon": "Capture5.PNG"
+    },
+    {
+      "id": 5,
+      "degrees": "16",
+      "icon": "Capture6.PNG"
+    },
+    {
+      "id": 6,
+      "degrees": "11",
+      "icon": "Capture7.PNG"
+    }
+  ],
+  "finance": [
+    {
+      "id": 0,
+      "Team1": "25",
+      "Team2": "4",
+      "Team3": "31",
+      "Team4": "36",
+      "Team5": "7",
+      "Team6": "16",
+      "Team7": "26",
+      "Team8": "26"
+    },
+    {
+      "id": 1,
+      "Team1": "26",
+      "Team2": "14",
+      "Team3": "33",
+      "Team4": "66",
+      "Team5": "74",
+      "Team6": "66",
+      "Team7": "32",
+      "Team8": "96"
+    },
+    {
+      "id": 2,
+      "Team1": "33",
+      "Team2": "94",
+      "Team3": "31",
+      "Team4": "37",
+      "Team5": "27",
+      "Team6": "19",
+      "Team7": "66",
+      "Team8": "41"
+    },
+    {
+      "id": 3,
+      "Team1": "95",
+      "Team2": "47",
+      "Team3": "11",
+      "Team4": "39",
+      "Team5": "17",
+      "Team6": "18",
+      "Team7": "56",
+      "Team8": "21"
+    },
+    {
+      "id": 4,
+      "Team1": "24",
+      "Team2": "24",
+      "Team3": "32",
+      "Team4": "26",
+      "Team5": "75",
+      "Team6": "66",
+      "Team7": "26",
+      "Team8": "16"
+    }
+  ],
+  "sport": [
+    {
+      "id": 0,
+      "Score1": "0",
+      "Score2": "0",
+      "img1": "1200px-Football_Brésil_federation.svg.png",
+      "img2": "weather-forecast-icon-in-flat-style-sun-with-clouds-illustration-on-isolated-transparent-background-forecast-sign-concept-MJMFF6.jpg"
+    },
+    {
+      "id": 1,
+      "Score1": "0",
+      "Score2": "1",
+      "img1": "1200px-Football_Brésil_federation.svg.png",
+      "img2": "weather-forecast-icon-in-flat-style-sun-with-clouds-illustration-on-isolated-transparent-background-forecast-sign-concept-MJMFF6.jpg"
+    },
+    {
+      "id": 2,
+      "Score1": "0",
+      "Score2": "2",
+      "img1": "1200px-Football_Brésil_federation.svg.png",
+      "img2": "weather-forecast-icon-in-flat-style-sun-with-clouds-illustration-on-isolated-transparent-background-forecast-sign-concept-MJMFF6.jpg"
+    },
+    {
+      "id": 3,
+      "Score1": "1",
+      "Score2": "2",
+      "img1": "1200px-Football_Brésil_federation.svg.png",
+      "img2": "weather-forecast-icon-in-flat-style-sun-with-clouds-illustration-on-isolated-transparent-background-forecast-sign-concept-MJMFF6.jpg"
+    },
+    {
+      "id": 4,
+      "Score1": "1",
+      "Score2": "0",
+      "img1": "th (1).jpg",
+      "img2": "man-united-ok.jpg"
+    },
+    {
+      "id": 5,
+      "Score1": "1",
+      "Score2": "2",
+      "img1": "th (1).jpg",
+      "img2": "man-united-ok.jpg"
+    },
+    {
+      "id": 6,
+      "Score1": "1",
+      "Score2": "2",
+      "img1": "th (1).jpg",
+      "img2": "man-united-ok.jpg"
+    }
+  ],
+  "user": [
+    {}
+  ]
+}
